@@ -6,7 +6,7 @@
     },
     "exported_at": "",
     "name": "MultiEgg",
-    "author": "FexHub ",
+    "author": "FexHub@de",
     "description": "Fexhub-multiegg",
     "images": [
         "quay.io\/pterodactyl\/core:java_17",
